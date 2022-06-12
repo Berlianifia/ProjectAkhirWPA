@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Family Collection</string>
+    <string name="home">Home</string>
+    <string name="feed">Feed</string>
+    <string name="chart">Chart</string>
+    <string name="chat">Chat</string>
+    <string name="profile">Profile</string>
+    <string name="search">Cari</string>
+    <string name="favorit">Favorit</string>
+    <string name="kategori">Kategori</string>
+    <string name="diskon">Diskon</string>
+    <string name="promo">Promo</string>
+    <string name="promo2">Khusus Hari Ini</string>
+    <string name="produk1">Produk Terbaru</string>
+    <string name="produk2">Produk Lainnya</string>
+    <string name="title_activity_checkout">CheckoutActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+
+</resources>
